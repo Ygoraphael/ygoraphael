@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning .NET BOOTCAMP TEAMINTERNATIONAL
+I’m currently learning more about .NET
 
 <div align="center">
   <a href="https://github.com/ygoraphael">
