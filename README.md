@@ -20,9 +20,9 @@ I’m currently learning more about .NET CORE
   <img align="center" alt="Ygor-netcore" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Ygor-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Ygor-Postman" height="40" width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img align="center" alt="Ygor-sqlserver" height="40" width="50" src="https://www.vectorlogo.zone/logos/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Ygor-mongodb" height="40" width="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="Ygor-mysql" height="40" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Ygor-sqlserver" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Ygor-mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="Ygor-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
   
