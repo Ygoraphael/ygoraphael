@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 
-I’m currently learning more about .NET CORE
+I’m currently learning more about .NET
 
 <div align="center">
   <a href="https://github.com/ygoraphael">
